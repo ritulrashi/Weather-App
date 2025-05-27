@@ -1,5 +1,5 @@
-```markdown
-# 🌤️ Weather App
+
+## 🌤️ Weather App
 
 A clean and responsive web-based Weather App that shows real-time weather data and 24-hour forecasts using the OpenWeatherMap API. Just enter your city, hit search, and get instant weather details and forecasts.
 
@@ -25,13 +25,11 @@ A clean and responsive web-based Weather App that shows real-time weather data a
 ---
 
 ## 📁 File Structure
-
+```
 weather-app/
 ├── index.html       # Main HTML structure
 ├── style.css        # CSS styling for layout and design
 └── script.js        # JavaScript to handle API calls and DOM updates
-
----
 
 ````
 ## 🔧 Setup Instructions
